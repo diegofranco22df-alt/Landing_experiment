@@ -1,13 +1,13 @@
 Landing experiment
 Validando hipótesis de negocio con pruebas estadísticas
 
-Este repositorio contiene el análisis realizado a un experimento A/B en la página de inicio (landing page), comparando 
+Este repositorio contiene el análisis realizado a un experimento A/B en la página de inicio (landing page), comparando
+dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario.
 
 🧠 Objetivo del análisis
-Identificar problemas de calidad de datos.
-Explorar, limpiar y analizar los datos para construir un perfil estadístico de los clientes.
-Detectar comportamientos atípicos y crear segmentos de clientes.
-Identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa.
+La empresa necesita una decisión basada en datos para definir qué versión implementar, considerando la tasa de conversión, el gasto promedio y el comportamiento por canal de tráfico y tipo de usuario.
+
+
 El proyecto incluye 3 datasets:
 
 plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
