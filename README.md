@@ -5,6 +5,7 @@ Este repositorio contiene el análisis realizado a un experimento A/B en la pág
 dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario.
 
 🧠 Objetivo del análisis
+
 La empresa necesita una decisión basada en datos para definir qué versión implementar, considerando la tasa de conversión, el gasto promedio y el comportamiento por canal de tráfico y tipo de usuario.
 
 
