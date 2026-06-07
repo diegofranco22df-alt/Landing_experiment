@@ -22,7 +22,7 @@ información de usuarios expuestos a las versiones A y B, incluyendo región, di
 ## ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/1qEsBgms6eSKTABIQj32E6C61eJvNZmZu)
+[![Open In Colab](https://colab.research.google.com/github/diegofranco22df-alt/Landing_experiment/blob/main/S9_Version_Student_Proyecto_Landing_Experiment.ipynb)
 
 O:
 
