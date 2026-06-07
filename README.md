@@ -1,5 +1,5 @@
 # Landing experiment
-Validando hipótesis de negocio con pruebas estadísticas
+Validando hipótesis de negocio con pruebas estadísticas:
 
 Este repositorio contiene el análisis realizado a un experimento A/B en la página de inicio (landing page), comparando
 dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario.
