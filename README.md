@@ -1,4 +1,4 @@
-# Landing experiment
+# Experimento A/B en página de inicio
 Validando hipótesis de negocio con pruebas estadísticas:
 
 Este repositorio contiene el análisis realizado a un experimento A/B en la página de inicio (landing page), comparando
